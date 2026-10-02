@@ -20,10 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\Users.txt">
+    <Text Include="..\client-records.txt">
       <Filter>Header Files</Filter>
     </Text>
-    <Text Include="..\client-records.txt">
+    <Text Include="..\Users.txt">
       <Filter>Header Files</Filter>
     </Text>
   </ItemGroup>

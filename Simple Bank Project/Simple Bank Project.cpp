@@ -846,6 +846,7 @@ vector<stUser> SaveUserDataToFile(vector<stUser>& vUser)
 {
 	fstream MyFile;
 	MyFile.open(UserFile, ios::out);
+
 	if (MyFile.is_open())
 	{
 		for (stUser& user : vUser)
