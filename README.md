@@ -102,6 +102,15 @@ The application utilizes flat-file text storage with custom delimiter separation
 
 \- `stUser`: Represents system user credentials and authorization rights.
 
+---
+
+### Test Account
+
+**Username:** `Admin`
+**Password:** `1995`
+
+---
+
 
 
 \---
